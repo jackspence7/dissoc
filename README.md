@@ -2,7 +2,7 @@
 
 **DIStinct Sensory-Overriding Creativity** - Teaching AI to Think Outside the Box Through Controlled Dissociation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Status: Research](https://img.shields.io/badge/Status-Research-orange)](https://github.com/dissoc)
 
 ## 🧠 What is DISSOC?
